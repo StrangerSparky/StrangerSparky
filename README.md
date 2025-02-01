@@ -56,3 +56,10 @@ I'm a passionate software developer with a love for creating beautiful and funct
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=StrangerSparky&color=blueviolet" alt="Profile views"/>
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adhershmnair/adhershmnair/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adhershmnair/adhershmnair/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/adhershmnair/adhershmnair/output/github-snake.svg" />
+</picture>
+
