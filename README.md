@@ -14,9 +14,8 @@
 
 I'm a passionate software developer with a love for creating beautiful and functional web applications. My journey in tech has been driven by curiosity and a desire to build solutions that make a difference.
 
-- 🔭 I'm currently working on **innovative web applications**
-- 🌱 I'm currently learning **Game Development**
-- 👯 I'm looking to collaborate on **open source projects**
+- 🔭 I'm currently Searching for **how to become software developer**
+- 🌱 I'm currently learning **Sofware Development**
 - 💬 Ask me about **React, Node.js, HTML, etc...**
 
 ## 🛠️ Tech Stack
