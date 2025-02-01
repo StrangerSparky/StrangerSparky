@@ -1,10 +1,6 @@
 <h1 align="center">👋 Hi, I'm Stranger Sparky</h1>
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1487058792275-0ad4aaf24ca7" alt="Profile Banner" width="100%" style="border-radius: 10px;"/>
-</p>
-
-<p align="center">
   <strong> Developer | Open Source Enthusiast | Tech Explorer</strong>
 </p>
 
