@@ -1,17 +1,16 @@
-<h1 align="center">👋 Hi, I'm John Doe</h1>
+<h1 align="center">👋 Hi, I'm Stranger Sparky</h1>
 
 <p align="center">
   <img src="https://images.unsplash.com/photo-1487058792275-0ad4aaf24ca7" alt="Profile Banner" width="100%" style="border-radius: 10px;"/>
 </p>
 
 <p align="center">
-  <strong>Full Stack Developer | Open Source Enthusiast | Tech Explorer</strong>
+  <strong> Developer | Open Source Enthusiast | Tech Explorer</strong>
 </p>
 
 <div align="center">
   
-  [![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/yourusername)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/yourusername?style=social)](https://twitter.com/yourusername)
+  [![GitHub followers](https://img.shields.io/github/followers/StrangerSparky?style=social)](https://github.com/StrangerSparky)
   
 </div>
 
@@ -20,9 +19,9 @@
 I'm a passionate software developer with a love for creating beautiful and functional web applications. My journey in tech has been driven by curiosity and a desire to build solutions that make a difference.
 
 - 🔭 I'm currently working on **innovative web applications**
-- 🌱 I'm currently learning **AI/ML and Cloud Architecture**
+- 🌱 I'm currently learning **Game Development**
 - 👯 I'm looking to collaborate on **open source projects**
-- 💬 Ask me about **React, Node.js, and Cloud Technologies**
+- 💬 Ask me about **React, Node.js, HTML, etc...**
 
 ## 🛠️ Tech Stack
 
@@ -30,7 +29,7 @@ I'm a passionate software developer with a love for creating beautiful and funct
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" alt="Html"/>
 </p>
 
 ## 📊 GitHub Stats
