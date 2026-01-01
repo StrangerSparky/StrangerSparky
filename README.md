@@ -10,34 +10,24 @@
   
 </div>
 
-## 🚀 About Me
+# 💫 About Me:
+I'm a passionate software developer with a love for creating beautiful and functional web applications. My journey in tech has been driven by curiosity and a desire to build solutions that make a difference.<br><br>🔭 I'm currently Searching for how to become software developer<br>🌱 I'm currently learning Sofware Development<br>💬 Ask me about React, Node.js, HTML, etc...
 
-I'm a passionate software developer with a love for creating beautiful and functional web applications. My journey in tech has been driven by curiosity and a desire to build solutions that make a difference.
 
-- 🔭 I'm currently Searching for **how to become software developer**
-- 🌱 I'm currently learning **Sofware Development**
-- 💬 Ask me about **React, Node.js, HTML, etc...**
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:strangersparky009@gmail.com) 
 
-## 🛠️ Tech Stack
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=flat&logo=riotgames&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=flat&logo=xbox&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat&logo=nVIDIA&logoColor=white) ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=flat&logo=wireguard&logoColor=white) ![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=flat&logo=xfce&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=flat&logo=amd&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=StrangerSparky&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=StrangerSparky&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=StrangerSparky&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Html"/>
-  <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=CSS&logoColor=white" alt="Css"/>
-  <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=CSS&logoColor=white alt="Sass"/>
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=StrangerSparky&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StrangerSparky&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=StrangerSparky&theme=radical" alt="GitHub Streak" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 🌟 Featured Projects
 
