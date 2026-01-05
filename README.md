@@ -10,7 +10,7 @@
   
 </div>
 
-# 💫 About Me:
+# About Me:
 I'm a passionate software developer with a love for creating beautiful and functional web applications. My journey in tech has been driven by curiosity and a desire to build solutions that make a difference.<br><br>🔭 I'm currently Searching for how to become software developer<br>🌱 I'm currently learning Sofware Development<br>💬 Ask me about React, Node.js, HTML, etc...
 
 
